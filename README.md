@@ -1,7 +1,7 @@
-## Mor Naaman's Website
+## Jina Huh-Yoo's Website
 
 ### Thanks
-Forked from Martin Saveski's website -- thanks Martin!
+Forked from Mor Naaman's website, who forked from Martin Saveski's website -- thanks Mor and Martin!
 
 ### Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
